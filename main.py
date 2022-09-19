@@ -33,4 +33,4 @@ async def on_member_remove(member):
     channel = guild.get_channel(911402373988110357)
     await channel.send(f"**{member.display_name}** got deported")
 
-client.run("OTYwOTE3ODA2MDk2OTgyMDk3.YkxacQ.Ge8_47_n9hHnnZODgx6r5SzX0S8")
+client.run("token here")
