@@ -9,5 +9,5 @@ Discord bot made in Python
  git clone https://github.com/musaab03/discord_bot
  ```
 3. Then cd into the directory
-4. Now, go to the developers discord portal [https://discord.com/developers/]
+4. Now, go to the [Discord developers portal](https://discord.com/developers/)
 Done!
