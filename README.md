@@ -8,7 +8,7 @@
 ```sh
 git clone https://github.com/musaab03/discord_bot
 ```
-2) Create discord application (here)[https://discord.com/developers/applications]
+2) Create discord application [here](https://discord.com/developers/applications)
 3) Enter this URL and replace [CLIENTID] with the client id of your application. Can be found under OAuth2 > General
 ```sh
 https://discordapp.com/oauth2/authorize?&client_id=[CLIENTID]&scope=bot
@@ -16,8 +16,8 @@ https://discordapp.com/oauth2/authorize?&client_id=[CLIENTID]&scope=bot
 4) Authorise access to your server
 
 ## Usage
-Can be ran locally on your PC via VS Code or through Heroku
-Follow this (tutorial)[https://www.youtube.com/watch?v=xBhUh4-Pyxo] to deploy via Heroku
+Can be ran locally on your PC via VS Code or through Heroku </br>
+Follow this [tutorial](https://www.youtube.com/watch?v=xBhUh4-Pyxo) to deploy via Heroku
 
 # Tools and Technologies Used
 - Python 3
