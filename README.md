@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my Discord Bot 👋</h1>
+<h1 align="center">Welcome to my Discord Greet Bot 👋</h1>
 
 > A very simple Discord bot that greets people when joining a server
 
